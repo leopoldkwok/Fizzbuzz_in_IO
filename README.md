@@ -13,18 +13,24 @@ How to set it up
 -----------------
 
 ```sh
-git clone git@github.com:leopoldkwok/Fizzbuzz_in_IO.git
-cd Fizzbuzz_in_IO
+$ git clone git@github.com:leopoldkwok/Fizzbuzz_in_IO.git
+
+```
+
+Change into the directory:
+
+```shell
+$ cd Fizzbuzz_in_IO
 ```
 
 In order to execute the file, download IO via Homebrew in the terminal:
 
 ```shell
-brew install io
+$ brew install io
 ```
 
 How to run it
 --------------
 ```shell
-io fizzbuzz.io
+$ io fizzbuzz.io
 ```
