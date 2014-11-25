@@ -1,5 +1,5 @@
 Fizzbuzz in IO
-==============
+===============
 
 In preparation for understanding Javascript better, the teaching staff at Makers Academy asked us to create the FizzBuzz game in the IO language.
 
